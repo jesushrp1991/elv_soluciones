@@ -53,6 +53,13 @@
   background-color: #1da74b !important;
 }
 
+.text-small-client {
+  text-align: right !important;
+  font-size: 12px;
+  font-weight: bold;
+  padding-left: 15px;
+}
+
 body {
   margin: 0;
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
